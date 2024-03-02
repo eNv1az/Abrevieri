@@ -1,0 +1,20 @@
+div{
+    margin-top: -21px;
+    width: 180px;
+}
+
+dt{
+    float:left;
+    font-style: italic;
+    margin-right: 6px;
+
+}
+
+dd{
+    margin-left: 0px;
+    padding-right: 10px;
+
+}
+span{
+    margin-left: 45px;
+}
